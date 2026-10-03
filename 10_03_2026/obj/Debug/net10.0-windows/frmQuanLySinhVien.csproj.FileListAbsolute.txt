@@ -1,0 +1,17 @@
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\QuanLySinhVien.frmQuanLySinhVien.resources
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.csproj.GenerateResource.cache
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.AssemblyInfoInputs.cache
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.AssemblyInfo.cs
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\bin\Debug\net10.0-windows\frmQuanLySinhVien.exe
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\bin\Debug\net10.0-windows\frmQuanLySinhVien.deps.json
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\bin\Debug\net10.0-windows\frmQuanLySinhVien.runtimeconfig.json
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\bin\Debug\net10.0-windows\frmQuanLySinhVien.dll
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\bin\Debug\net10.0-windows\frmQuanLySinhVien.pdb
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.dll
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\refint\frmQuanLySinhVien.dll
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.pdb
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanLySinhVien.genruntimeconfig.cache
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\ref\frmQuanLySinhVien.dll
+C:\Users\Minh\OneDrive - vnu.edu.vn\Documents\frmQuanLySinhVien\obj\Debug\net10.0-windows\frmQuanL.0C4EEB81.Up2Date
